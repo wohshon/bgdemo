@@ -91,7 +91,7 @@
           <h2>Application Example</h2>
           <p>
             <img src="./bluerose.jpeg">
-            <a href="./dist/img/apple-touch-icon-precomposed-57.png">test download</a>
+            <a href="./dist/img/apple-touch-icon-57-precomposed.png">test download</a>
           </p>
         </div>
       </div>
